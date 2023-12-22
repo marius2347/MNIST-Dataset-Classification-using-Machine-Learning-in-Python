@@ -12,7 +12,7 @@
 <br>
 
 <h2>Dataset CSV</h2>
-<b> Link: <b>
+<b> Link: https://bit.ly/mnist-datasetML<b>
 <br>
 
 <h2>Photo</h2>
