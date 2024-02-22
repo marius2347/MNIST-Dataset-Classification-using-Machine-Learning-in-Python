@@ -1,4 +1,4 @@
-<h1> Classification ML - Python Project</h1>
+<h1> MNIST Dataset - Classification ML Python Project</h1>
 <br>
 <h2>Features</h2>
 <li>GIT LFS for Large DatSet MNIST.npy (800 mb)</li>
